@@ -1,2 +1,13 @@
-# /models/**/* filter=lfs diff=lfs merge=lfs -text
-/data/**/* filter=lfs diff=lfs merge=lfs -text
+data/raw/anli_v1.0/R3/test_r3.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/anli_v1.0/R3/train_r3.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/anli_v1.0/R1/train_r1.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/anli_v1.0/R2/dev_r2.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/anli_v1.0/R2/train_r2.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/anli_v1.0/R3/dev_r3.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/anli_v1.0/R1/dev_r1.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/anli_v1.0/R1/test_r1.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/anli_v1.0/R2/test_r2.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/ANLI.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/snli_1.0/snli_1.0_dev.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/snli_1.0/snli_1.0_test.csv filter=lfs diff=lfs merge=lfs -text
+data/raw/snli_1.0/snli_1.0_train.csv filter=lfs diff=lfs merge=lfs -text
