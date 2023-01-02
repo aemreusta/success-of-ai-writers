@@ -94,5 +94,4 @@ references/
 tox.ini
 src/
 Makefile
-reports/
 models/
