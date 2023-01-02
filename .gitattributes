@@ -11,3 +11,9 @@ data/processed/ANLI.csv filter=lfs diff=lfs merge=lfs -text
 data/raw/snli_1.0/snli_1.0_dev.csv filter=lfs diff=lfs merge=lfs -text
 data/raw/snli_1.0/snli_1.0_test.csv filter=lfs diff=lfs merge=lfs -text
 data/raw/snli_1.0/snli_1.0_train.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/df_test.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/df_train.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/df_train_.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/df_train_1.csv filter=lfs diff=lfs merge=lfs -text
+data/processed/df_validation.csv filter=lfs diff=lfs merge=lfs -text
+data/external/paraphrased_articles.csv filter=lfs diff=lfs merge=lfs -text
