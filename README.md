@@ -1,7 +1,15 @@
-Success of AI Writers
-==============================
+<h1 style="text-align: center;">Success of AI Writers</h1>
 
-Hacettepe University Artificial Intelligence Engineering AIN311 Course Project
+<p style="text-align: center;"><em><a href="https://www.linkedin.com/in/a-emreusta/">Ahmet Emre Usta</a></em> & <em><a href="https://www.linkedin.com/in/huseyin-yigit-ulker/">Hüseyin Yiğit Ülker</a></em> </p>
+
+>Hacettepe University Artificial Intelligence Engineering AIN311 Course Project
+
+<h4 style="text-align: center;
+            color: red;">This repo still under development!</h4>
+
+How It is Work?
+=============================
+<img src="reports/figures/02.deberta-working-scheme.png">
 
 Datasets
 =============================
