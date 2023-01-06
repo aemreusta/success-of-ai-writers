@@ -9,7 +9,7 @@
 
 How It is Work?
 =============================
-<img src="reports/figures/02.deberta-working-scheme.png">
+<img src="reports/pictures/02.deberta-working-scheme.png">
 
 Datasets
 =============================
